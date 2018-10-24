@@ -1,4 +1,4 @@
-# vr_apocalypse
+# VRApocalypse
 
 VR Apocalypse is made with Unity using Vuforia and the Cardboard API. 
 Instructions for playing are included in the Executables folder, along with the executables and images.
